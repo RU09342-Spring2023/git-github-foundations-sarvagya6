@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub
+Sarvagya Dwivedi
 
 ## 🤓 Course overview and learning outcomes
 
